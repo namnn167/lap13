@@ -1,0 +1,19 @@
+.carousel-item {
+  height: 400px;
+}
+
+#myCarousel .bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/background-1.webp);
+}
+#myCarousel .bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/background-2.webp);
+}
+#myCarousel .bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/background-3.webp);
+}
